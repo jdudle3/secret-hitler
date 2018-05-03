@@ -5,7 +5,7 @@ const MODERATORS = (module.exports.MODERATORS = [
 	'Hexicube',
 	'RavenCaps',
 	'JerMej1s',
-	'jdudle3',
+	
 	'Rose',
 	'Number5',
 	'Ophxlia',
@@ -18,7 +18,7 @@ const MODERATORS = (module.exports.MODERATORS = [
 module.exports.TRIALMODS = ['ZeroCool', 'neffni', 'waluigiwaro', 'benjamin172'];
 
 const EDITORS = (module.exports.EDITORS = ['Max', 'cbell', 'Invidia', 'TheJustStopO']);
-const ADMINS = (module.exports.ADMINS = ['coz', 'Stine']);
+const ADMINS = (module.exports.ADMINS = ['coz', 'Stine' 'jdudle3',]);
 const CONTRIBUTORS = (module.exports.CONTRIBUTORS = [
 	'banc',
 	'HREmperor',
